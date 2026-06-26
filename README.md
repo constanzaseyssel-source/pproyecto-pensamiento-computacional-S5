@@ -1,3 +1,5 @@
+https://github.com/constanzaseyssel-source/pproyecto-pensamiento-computacional-S5 
+
 # pproyecto-pensamiento-computacional-S5
 
 codigo casi final con las imagenes trabajadas en illustraitor. 
